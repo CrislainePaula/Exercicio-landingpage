@@ -6,5 +6,5 @@ Gostei bastante de fazer esse desafio, realizei o exercício da melhorar maneira
 ### Veja a pagina disponivel no link abaixo:
 
 ```bash
-  CalculadoraSimples-CSharp/Calculadora com Interface/Calculadora com Interface/bin/Debug
+  https://crislainepaula.github.io/Exercicio-landingpage/
 ```
